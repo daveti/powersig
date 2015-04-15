@@ -38,6 +38,6 @@ for e in y:
 # Plot it
 plt.title("Power Signature")
 plt.plot(x_f, y_f, 'ro')
-plt.axis([0, 10, 0, 10])
+plt.axis([0, 6, 0, 6])
 plt.grid(True)
 plt.show()
